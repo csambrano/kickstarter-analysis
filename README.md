@@ -25,11 +25,14 @@ If we are looking specifically at launch dates, then May through July are the be
 
 
 - What can you conclude about the Outcomes based on Goals?
+
 Kickstarter goals that are below $5000 have a higher chance of being successful as well as goals in the $35000 to $44999 range. 
 
 
 - What are some limitations of this dataset?
+
 There is no data beyond 2017 and the sample size in each goal range are very different. The sample size for Kickstarter goals below $10000 are much larger. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could create a table and/or graph based off backer counts or average donations. 
