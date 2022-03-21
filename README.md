@@ -10,7 +10,7 @@ The purpose of the analysis was to figure out how other Kickstarter campaigns we
 ### Analysis of Outcomes Based on Launch Date
 This part of the analysis was done by creating a pivot table based off the Kickstarter data. The table is filtered by “theater” as the parent category with the option to filter by specific years, months are used for the rows, and the outcomes are used for the columns. A line chart is created to visualize the data from the pivot table. 
 
-!(https://github.com/csambrano/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Data.png?raw=true)
+![This is an image](https://github.com/csambrano/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Data.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 This part of the analysis was done by creating a table based off different ranges of campaign goals and the percentages of each outcome in each range. This was done by utilizing the “count ifs” formula on the Kickstarter data. Another line chart is created with the goal ranges in the x-axis and outcome percentages on the y-axis.  
